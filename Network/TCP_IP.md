@@ -6,7 +6,3 @@
 
 ![3Way HandShake](../Image/3Way-Handshake.png)
 
-
-
-
-
