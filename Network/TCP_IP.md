@@ -3,6 +3,7 @@
 * Transmission Control Protocol
 * **TCP** is like **Registered Mail**
     * It requires a `signature`(ACK) from the receiver to confirm delivery.
+    * more reliable than UDP.
 
 * TCP Header
 
@@ -23,6 +24,7 @@ ex)
 ```
 
 * Closing Connection.
+
     ![4way Handshake](../Image/4WayHandshake.png)
 
 ```text
