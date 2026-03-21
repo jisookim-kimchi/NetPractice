@@ -6,7 +6,7 @@
 
 *Opening Connection.
 
-![3Way Handshake](../Image/3Way-Handshake.png)
+![3Way Handshake](../Image/3WayHandshake.png)
 
 ```text
 1. Client sends SYN Seq : 0
