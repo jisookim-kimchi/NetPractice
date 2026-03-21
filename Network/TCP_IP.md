@@ -4,7 +4,7 @@
 * **TCP** is like **Registered Mail**
     * It requires a `signature`(ACK) from the receiver to confirm delivery.
 
-![TCP Header](../Image/TCPHeader.png)
+![TCP Header](../Image/TCP_HEADER.jpg)
 
 
 * Opening Connection.
