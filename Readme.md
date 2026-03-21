@@ -29,7 +29,7 @@ must be placed at the repository root.
  * [TCP/IP](./Network/TCP_IP.md)
  * [Router](./Network/Router.md)
  * [Subnetmasks](./Network/Subnetmasks.md)
- * [Switches](./Network/Switch.md)
+ * [Switche](./Network/Switch.md)
 
 ### [Resources]
 
