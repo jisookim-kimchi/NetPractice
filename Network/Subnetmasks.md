@@ -1,1 +1,2 @@
-## <font color="#58a6ff">Subnet Mask</font>
+## [Subnet Mask](#)
+
