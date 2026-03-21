@@ -17,7 +17,7 @@
 
 *Closing Connection.
 
-![4way Handshake](../Image/4Way-Handshake.png)
+![4way Handshake](../Image/4WayHandshake.png)
 
 ```text
 
