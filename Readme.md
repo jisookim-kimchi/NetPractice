@@ -25,11 +25,11 @@ must be placed at the repository root.
 
 
 ### [Network]
- * [OSI7Layer](#)
- * [TCP/IP Protocol](#)
- * [Routers](#)
+ * [OSI7Layer](./Network/OSI7Layer.md)
+ * [TCP/IP](./Network/TCP_IP.md)
+ * [Router](./Network/Router.md)
  * [Subnetmasks](./Network/Subnetmasks.md)
- * [Switches](#)
+ * [Switches](./Network/Switch.md)
 
 ### [Resources]
 
@@ -37,6 +37,6 @@ must be placed at the repository root.
 
 ### [Levels]
 - [Level1]
-
+- [Level2]
 # Resources
 
