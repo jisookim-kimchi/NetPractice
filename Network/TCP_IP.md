@@ -4,11 +4,14 @@
 * **TCP** is like **Registered Mail**
     * It requires a `signature`(ACK) from the receiver to confirm delivery.
 
-![TCP Header](../Image/TCP_HEADER.jpg)
+* TCP Header
+
+    ![TCP Header](../Image/TCP_HEADER.jpg)
 
 
 * Opening Connection.
-![3Way Handshake](../Image/3WayHandshake.png)
+
+    ![3Way Handshake](../Image/3WayHandshake.png)
 
 ```text
 
@@ -20,8 +23,7 @@ ex)
 ```
 
 * Closing Connection.
-
-![4way Handshake](../Image/4WayHandshake.png)
+    ![4way Handshake](../Image/4WayHandshake.png)
 
 ```text
 
