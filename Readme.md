@@ -57,3 +57,6 @@ https://www.geeksforgeeks.org/computer-networks/how-many-bits-are-reserved-for-t
 
 * IP :
 https://textbook.cs168.io/routing/ip-header.html 
+
+* OSI 7 Layer :
+https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-model-osi/
