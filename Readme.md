@@ -32,7 +32,7 @@ must be placed at the repository root.
 ### [Network]
  * [OSI7Layer](./Network/OSI7Layer.md)
  * [TCP/IP](./Network/TCP_IP.md)
- * [Router](./Network/Router.md)
+ * [Routing](./Network/Routing.md)
  * [Subnetmasks](./Network/Subnetmasks.md)
  * [Switche](./Network/Switch.md)
 
