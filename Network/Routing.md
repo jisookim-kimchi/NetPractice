@@ -1,7 +1,8 @@
 ## [Routing](#)
 
 * it is a Navigator, it decides where to send the packet.
-* it is a Layer 3 device that use IP address to decide the next hop.
+* it is a L3 device that use IP address to decide the next hop.
+* ex) WAN
 
 > [!IMPORTANT]
 > to connect to next hop, we need anyway to know the MAC address, and ARP is used to find the MAC address.

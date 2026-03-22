@@ -34,7 +34,7 @@ must be placed at the repository root.
  * [TCP/IP](./Network/TCP_IP.md)
  * [Routing](./Network/Routing.md)
  * [Subnetmasks](./Network/Subnetmasks.md)
- * [Switche](./Network/Switch.md)
+ * [Switch](./Network/Switch.md)
 
 ### [Resources]
 
