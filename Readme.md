@@ -23,9 +23,6 @@ using run.sh), how to export configurations, and submission requirements.
 • Submission details must state that 10 exported configuration files (one per level)
 must be placed at the repository root.
 
-
-
-
 > [!IMPORTANT]
 > I explained here just only TCP/IP but strongly recommend to study also about Ethernet frame too!
 
