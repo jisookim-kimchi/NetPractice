@@ -68,7 +68,7 @@ ex)
     - MF : More Fragment
     - Offset : Fragment Offset
 
-* if payload is bigger than size of MTU(Maximum Transmission Unit), then it is fragmented.
+* if IP's payload is bigger than size of MTU(Maximum Transmission Unit), then it is fragmented.
 
 * each fragment's payload size must be a multiple of 8 bytes(because Offset is measured in units of 8 bytes).
 
