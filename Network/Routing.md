@@ -10,7 +10,7 @@
 * each router has a routing table, which is used to decide the `next hop` to send the packet.
 ```
 
-## [Routing Table](#)
+## [Routing Table Example](#)
 
 ![Routing Table](../Image/Routing_Table.jpg)
 
