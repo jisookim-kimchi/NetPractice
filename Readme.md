@@ -26,8 +26,8 @@ must be placed at the repository root.
 
 
 
-----------------------------------------------
-* I explained here just only TCP/IP but strongly recommend to study also about Ethernet frame too!
+> [!IMPORTANT]
+> I explained here just only TCP/IP but strongly recommend to study also about Ethernet frame too!
 
 ### [Network]
  * [OSI7Layer](./Network/OSI7Layer.md)
