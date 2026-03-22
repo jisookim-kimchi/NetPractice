@@ -1,6 +1,19 @@
 ## [Routing](#)
 
 * it is a Navigator, it decides where to send the packet.
+* it is a Layer 3 device that use IP address to decide the next hop.
+
+> [!IMPORTANT]
+> to connect to next hop, we need anyway to know the MAC address, and ARP is used to find the MAC address.
+>only knowing IP address is not enough to send the packet.
+
+![ARP](../Image/ARP.jpg)
+
+```text
+* ARP is used to find the MAC address of the next hop.
+* **ARP doesn't take space in IP packets**:
+    - it uses Ethernet frame to send the ARP request and reply.
+```
 
 ```text
 [HostA] -> [Router1] -> [Router2] -> [Router3] -> [HostB]
