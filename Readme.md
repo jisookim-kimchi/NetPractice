@@ -24,6 +24,11 @@ using run.sh), how to export configurations, and submission requirements.
 must be placed at the repository root.
 
 
+
+
+----------------------------------------------
+* I explained here just only TCP/IP but strongly recommend to study also about Ethernet frame too!
+
 ### [Network]
  * [OSI7Layer](./Network/OSI7Layer.md)
  * [TCP/IP](./Network/TCP_IP.md)
@@ -45,3 +50,6 @@ must be placed at the repository root.
 
 * TCP Header : 
 https://www.geeksforgeeks.org/computer-networks/how-many-bits-are-reserved-for-the-tcp-flags/
+
+* IP :
+https://textbook.cs168.io/routing/ip-header.html 

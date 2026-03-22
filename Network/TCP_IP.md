@@ -9,6 +9,14 @@
 
     ![TCP Header](../Image/TCP_HEADER.jpg)
 
+    * TCP Flags
+        - there are SYN, ACK, FIN are all flags to control the connection.
+    * Sequence Number
+        - indicates the first byte number of the data in the current packet.
+    * Acknowledgment Number
+        - indicates the next byte number of the data that the receiver expects to receive.
+    * Window Size
+        - indicates the amount of data that the receiver can receive.
 
 * Opening Connection.
 
@@ -36,4 +44,36 @@ ex)
 
 ## [IP](#)
 
+* Internet Protocol
+    - Connectionless Protocol
+    - Unreliable
+    - Best-effort Delivery
 
+ ![IP Header](../Image/IP_HEADER.jpg)
+
+    - if Protocol is TCP, then it is 6.
+    - if Protocol is UDP, then it is 17.
+
+```text
+* IP packet max size is 65535 bytes.
+
+* IP payload max size is 65535 - 20 = 65515 bytes.
+```
+
+![IP Fragment](../Image/IP_Fragment.jpg)
+
+```text
+* Flags in IP header
+    - DF : Don't Fragment
+    - MF : More Fragment
+    - Offset : Fragment Offset
+
+* if payload is bigger than size of MTU(Maximum Transmission Unit), then it is fragmented.
+
+* each fragment's payload size must be a multiple of 8 bytes(because Offset is measured in units of 8 bytes).
+
+* TCP doesn't need to worry about fragmentation, because TCP will segment the payload before sending it to IP.
+
+* Ethernet MTU is 1500 bytes.
+```
+    
