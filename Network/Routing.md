@@ -44,6 +44,9 @@
 * Gateway
     - the next hop to send the packet.
 
+* Default Gateway
+    - anything outside (internet), it needs a “door” -> that door is the default gateway.
+
 * Interface
     - the interface to send the packet.
 
